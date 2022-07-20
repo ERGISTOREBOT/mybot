@@ -39,7 +39,7 @@ global.APIKeys = {
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -105,20 +105,20 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
+    success: 'Selesai ✓',
+    admin: 'Fitur Ini Hanya Untuk Admin!',
+    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
+    owner: 'Fitur ini Hanya Untuk Pemilik Bot!',
+    group: 'Fitur Yang Digunakan Hanya Untuk Group!',
+    private: 'Fitur yang digunakan Untuk Obrolan Pribadi!',
+    bot: 'Fitur Ini Hanya Untuk Bot',
+    wait: 'Dalam Prosess...',
+    linkm: 'Mana link Nya anj?',
     error: 'Error!!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    endLimit: 'Batas Limit Harian Anda Telah Expired, Batas Akan Diatur Ulang Setiap 12 Jam',
+    ban: 'Anda Telah DiBlokir Oleh Pemilik Bot, Jika Anda Ingin Membuka Blokir, Silahkan Chat Owner : wa.me/62895349917040.',
+    nsfw: 'Fiture NSFW Belum Di Aktifkan, silahkan Hubungi Admin Untuk Di Aktifkan',
+    banChat: 'Bot Di Blokir Di Group Ini, Harap Hubungi Pemiliknya untuk membatalkan pemblokiran'
 }
     global.limitawal = {
     premium: "Infinity",
