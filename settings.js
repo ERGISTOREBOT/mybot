@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['62895349917040'] //ur owner number
-global.ownername = "Maulana Gans" //ur owner name
+global.vcardowner = ['6281277026506'] //ur owner number
+global.ownername = "Egistore Gans" //ur owner name
 global.ytname = "YT: o" //ur yt chanel name
 global.socialm = "GitHub: Beller220" //ur github or insta name
 global.location = "Indonesia, jakarata" //ur location
 
 //bot bomdy 
-global.owner = ['62895349917040']
-global.ownertag = '62895349917040' //ur tag number
-global.botname = 'Jem-Bot MD V4' //ur bot name
+global.owner = ['6281277026506']
+global.ownertag = '6281277026506' //ur tag number
+global.botname = 'Dash-Bot MD V4' //ur bot name
 global.linkz = "https://youtube.com/channel/UCZ2S6vLi-GdwyX1m0eyU4uw" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCZ2S6vLi-GdwyX1m0eyU4uw" //ur website to be displayed
 global.botscript = 'https://github.com/Beller220/mybot' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Jem-Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Maulana GAns" //ur sticker watermark author
+global.packname = "Dash-Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "🦄Egistore GAns" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['62895349917040'] //ur premium numbers
+global.premium = ['6281277026506'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
